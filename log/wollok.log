@@ -524,3 +524,4 @@
 {"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-09-09T15:44:51.956Z"}
 {"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-09-09T15:44:52.562Z"}
 {"failures":[],"level":"info","message":"🧪 Test runner executed on c:\\Users\\Paulo\\OneDrive\\Escritorio\\Algoritmos1\\Tp2\\colecion-juego-de-tronos-parte-1-Meira8622","result":{"failed":0,"ok":1},"timeElapsed":232,"timestamp":"2024-09-09T15:45:10.297Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":114,"timestamp":"2024-09-09T15:45:22.096Z"}
